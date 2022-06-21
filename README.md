@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudecirTorrezan
 - 👀 I’m interested in tecnology (haha)
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on my future.
 
 <!---
